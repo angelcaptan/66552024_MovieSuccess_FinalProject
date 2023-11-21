@@ -36,7 +36,7 @@ README.md :This file
 
 
 
-##How To host It (either on a local server or on the cloud-TBD)
+## How To host It (either on a local server or on the cloud-TBD)
 
 
 
