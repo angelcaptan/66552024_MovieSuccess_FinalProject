@@ -35,6 +35,11 @@ Video_Demonstration
 README.md :This file
 
 
+
+##How To host It (either on a local server or on the cloud-TBD)
+
+
+
 ## Model Deployment
 Model was deployed to `Streamlit` using the  for prediction.
 
