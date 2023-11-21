@@ -22,6 +22,7 @@ The Steps Enacted Include:
 
 
 ## Repository Contents
+Database Used : Kaggle's The Movies Dataset 'movies_metadata.csv'
 
 Google Colab Notebook
 
