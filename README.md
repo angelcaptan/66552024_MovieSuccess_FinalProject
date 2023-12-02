@@ -44,4 +44,4 @@ README.md :This file
 Model was deployed to `Streamlit` using the  for prediction.
 
 
-[Link to Deployed App on Streamlit]( put it here)
+[Link to Deployed App on Streamlit](https://66552024moviesuccessfinalproject-xwyrqgxk7xhpme33yg2kmk.streamlit.app/)
