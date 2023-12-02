@@ -111,7 +111,7 @@ else:
 # Explain model's prediction
 if st.button('Prediction Explanation'):
     st.write("In this App, we are using a simple ensemble model that averages the predictions of 3 different models: Random Forest, XGBoost and Multilayer Perceptron Model in order to predict whether a Movie is Successful or Not.")
-    st.write("The model was trained on the Movies MetaData Dataset by Kaggle, which contains data on thousands of movies. The dataset contains information on a movie's attributes such as its budget, popularity score, revenue, voting average rating out of 10, the voting count and its genre. The model was trained to predict the movie's success based on these attributes but most specifically its profit based on its initial budget and revenue generated.If the profit is more than 50% then the movie is considered successful, otherwise its a loss.")
+    st.write("The model was trained on the Movies MetaData Dataset by Kaggle, which contains data on thousands of movies. The dataset contains information on a movie's attributes such as its budget, popularity score, revenue, voting average rating out of 10, the voting count and its genre. The model was trained to predict the movie's success based on these attributes but most specifically its profit based on its initial budget and revenue generated.If the profit is more than 50% then the movie is considered successful, otherwise its unsuccessful.")
     st.write("This is a demo project and doesn't use any advanced model explanation techniques. Use with caution.")
 
 
